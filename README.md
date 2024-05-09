@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on Data Engineering projects
-- 🌱 I’m currently learning on dbt (Data Build Tools)
+- 🌱 I’m currently learning on [dbt (Data Build Tools)](https://www.getdbt.com/)
 - 👯 I’m looking to collaborate on Software Development projects as a Business Analyst
-- 📫 Reach me through email : nurulnabilarahmat@gmail.com
+- 📫 Reach me through [Email](nurulnabilarahmat@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nurulnabilarahmat/)
 
 ---
 ### Projects:

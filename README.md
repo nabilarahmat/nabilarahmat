@@ -1,6 +1,6 @@
+![](https://komarev.com/ghpvc/?username=nabilarahmat&style=for-the-badge&color=orange)
+
 ### Hi there 👋
-
-
 - 🔭 I’m currently working on Data Engineering projects
 - 🌱 I’m currently learning on dbt (Data Build Tools)
 - 👯 I’m looking to collaborate on Software Development projects as a Business Analyst
